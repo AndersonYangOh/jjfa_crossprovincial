@@ -18,6 +18,7 @@ import App from './App';
 AppRegistry.registerComponent("LearnRN", () => App);
 ## 二、项目功能说明
 ### 跨省支撑申请
+![image](https://github.com/ChinaUnicomRI/jjfa_crossprovincial/blob/master/b5.jpg)
 * 填写商机信息，关联商机号
 * 明确客户经理、金额等敏感
 * 提交上级审核
