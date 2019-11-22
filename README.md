@@ -1,4 +1,4 @@
-# 基于reactnative跨省流程管理系统
+# 基于reactnative跨省支撑管理系统
 ## 一、项目初始化
 ### 1.创建项目
 * react-native init 项目名
